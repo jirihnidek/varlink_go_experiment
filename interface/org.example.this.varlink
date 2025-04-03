@@ -1,0 +1,3 @@
+interface org.example.this
+
+method Ping(in: string) -> (out: string)
